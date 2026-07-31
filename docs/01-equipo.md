@@ -18,7 +18,7 @@
 
 ## Normas internas
 
-- Canal de comunicación:
+- Canal de comunicación: Discord (por mientras)
 - Horario de coordinación:
 - Forma de tomar decisiones:
 - Procedimiento ante inasistencia:
