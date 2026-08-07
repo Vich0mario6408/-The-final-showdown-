@@ -2,7 +2,7 @@
 
 ## Proyecto
 
-- Nombre provisional:
+- Nombre provisional: The Smash Proyect 
 - Organización:
 - Fecha:
 
