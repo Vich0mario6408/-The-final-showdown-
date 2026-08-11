@@ -4,7 +4,7 @@
 
 - Nombre provisional: The final showdown  
 - Organización: Vicente Gutierrez 
-- Fecha:
+- Fecha: -
 
 ## Integrantes y roles
 
