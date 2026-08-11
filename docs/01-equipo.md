@@ -2,8 +2,8 @@
 
 ## Proyecto
 
-- Nombre provisional: The Smash Proyect 
-- Organización:
+- Nombre provisional: The final showdown  
+- Organización: Vicente Gutierrez 
 - Fecha:
 
 ## Integrantes y roles
@@ -19,10 +19,10 @@
 ## Normas internas
 
 - Canal de comunicación: Discord (por ahora)
-- Horario de coordinación:
-- Forma de tomar decisiones:
-- Procedimiento ante inasistencia:
-- Procedimiento ante tareas atrasadas:
+- Horario de coordinación: Horario de clases en programacion (Martes,Miercoles y Viernes)
+- Forma de tomar decisiones: Individual 
+- Procedimiento ante inasistencia: -
+- Procedimiento ante tareas atrasadas: -
 
 ## Compromisos
 
